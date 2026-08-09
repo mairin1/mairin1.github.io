@@ -3,504 +3,504 @@
         {
             "id": 1,
             "title": "Trust",
+            "title_id": "trust",
             "author": "Hernan Diaz",
-            "isbn": "9780263118124",
             "rating": 3,
             "brief_review": "Trust me: this book is just ok."
         },
         {
             "id": 2,
             "title": "Lincoln Highway",
+            "title_id": "lincoln_highway",
             "author": "Amor Towles",
-            "isbn": "9781786332523",
             "rating": 4,
             "brief_review": "Cross-country romp."
         },
         {
             "id": 3,
             "title": "Cloud Cuckoo Land",
+            "title_id": "cloud_cuckoo_land",
             "author": "Anthony Doerr",
-            "isbn": "1982189673",
             "rating": 5,
             "brief_review": "Immensely satisfying ending that tied all the different narratives together."
         },
         {
             "id": 4,
             "title": "Never Let Me Go",
+            "title_id": "never_let_me_go",
             "author": "Kazuo Ishiguro",
-            "isbn": "1405611340",
             "rating": 5,
             "brief_review": "The almost gossipy, school children first part makes the creepier second half hit even harder."
         },
         {
             "id": 5,
             "title": "The Immortal Life of Henrietta Lacks",
+            "title_id": "the_immortal_life_of_henrietta_lacks",
             "author": "Rebecca Skloot",
-            "isbn": "0330533444",
             "rating": 3,
             "brief_review": "Made me think, but not that hard."
         },
         {
             "id": 6,
             "title": "Grendel",
+            "title_id": "grendel",
             "author": "John Gardner",
-            "isbn": "9780233963426",
             "rating": 4,
             "brief_review": "I never read Beowulf."
         },
         {
             "id": 7,
             "title": "Pachinko",
+            "title_id": "pachinko",
             "author": "Min Jin Lee",
-            "isbn": "2368125256",
             "rating": 4,
             "brief_review": "Love a multi-generational epic."
         },
         {
             "id": 8,
             "title": "When We Were Orphans",
+            "title_id": "when_we_were_orphans",
             "author": "Kazuo Ishiguro",
-            "isbn": "9780375412653",
             "rating": 1,
             "brief_review": "Least favorite Kazuo Ishiguro."
         },
         {
             "id": 9,
             "title": "Transcendent Kingdom",
+            "title_id": "transcendent_kingdom",
             "author": "Yaa Gyasi",
-            "isbn": "9780593215333",
             "rating": 2,
             "brief_review": "Expected more depth."
         },
         {
             "id": 10,
             "title": "The Things They Carried",
+            "title_id": "the_things_they_carried",
             "author": "Tim O'Brien",
-            "isbn": "9781402565410",
             "rating": 5,
             "brief_review": "Really interesting war sort-of-memoir."
         },
         {
             "id": 11,
             "title": "Crocodile Soup",
+            "title_id": "crocodile_soup",
             "author": "Julia Darling",
-            "isbn": "9781909486157",
             "rating": 2,
             "brief_review": "Chose it randomly from Hayden stacks."
         },
         {
             "id": 12,
             "title": "Wide Sargasso Sea",
+            "title_id": "wide_sargasso_sea",
             "author": "Jean Rhys",
-            "isbn": "9780241281901",
             "rating": 4,
             "brief_review": "Manages to be meta and still good."
         },
         {
             "id": 13,
             "title": "The Shipping News",
+            "title_id": "the_shipping_news",
             "author": "Annie Proulx",
-            "isbn": "9789052266237",
             "rating": 3,
             "brief_review": "Kinda slow, but that doesn't make it a bad book, it just makes it a mildly painstaking read."
         },
         {
             "id": 14,
             "title": "The Blind Assassin",
+            "title_id": "the_blind_assassin",
             "author": "Margaret Atwood",
-            "isbn": "9511167820",
             "rating": 3,
             "brief_review": "I was entertained but not enlightened."
         },
         {
             "id": 15,
             "title": "The Plague",
+            "title_id": "the_plague",
             "author": "Albert Camus",
-            "isbn": "9781582017365",
             "rating": 5,
             "brief_review": "I would've liked this more if I'd read it before the pandemic."
         },
         {
             "id": 16,
             "title": "Beloved",
+            "title_id": "beloved",
             "author": "Toni Morrison",
-            "isbn": "9781400033416",
             "rating": 5,
             "brief_review": "Heartbreaking. Some of the scenes stick with me years after reading it."
         },
         {
             "id": 17,
             "title": "100 Years of Solitude",
+            "title_id": "100_years_of_solitude",
             "author": "Gabriel Garcia Marquez",
-            "isbn": "082207155X",
             "rating": 3,
             "brief_review": "I know the point is that they all have the same names because history repeats itself but wow did it make it hard to follow the plot."
         },
         {
             "id": 18,
             "title": "Song of Achilles",
+            "title_id": "song_of_achilles",
             "author": "Madeleine Miller",
-            "isbn": "9789603649823",
             "rating": 2,
             "brief_review": "Just didn't grab me."
         },
         {
             "id": 19,
             "title": "Zen and the Art of Motorcycle Maintenance",
+            "title_id": "zen_and_the_art_of_motorcycle_maintenance",
             "author": "Robert M. Pirsig",
-            "isbn": "2020068079",
             "rating": 3,
             "brief_review": "Every proveribial curve of the road made me feel alternatively smart or stupid."
         },
         {
             "id": 20,
             "title": "The Screwtape Letters",
+            "title_id": "the_screwtape_letters",
             "author": "C.S. Lewis",
-            "isbn": "0006265278",
             "rating": 5,
             "brief_review": "Love that it's polemical but still fun to read."
         },
         {
             "id": 21,
             "title": "The Alchemist",
+            "title_id": "the_alchemist",
             "author": "Paulo Coelho",
-            "isbn": "9781518609718",
             "rating": 1,
             "brief_review": "I don't understand the hype, I think it's so trite."
         },
         {
             "id": 22,
             "title": "Immortality",
+            "title_id": "immortality",
             "author": "Milan Kundera",
-            "isbn": "9878183860697",
             "rating": 2,
             "brief_review": "The opening chapter is amazing, but it's mostly weird after that."
         },
         {
             "id": 23,
             "title": "Lovely, Dark, Deep",
+            "title_id": "lovely,_dark,_deep",
             "author": "Joyce Carol Oates",
-            "isbn": "0062356941",
             "rating": 3,
             "brief_review": "Some of the stories seem nearly identical to each other, but overall they're interesting explorations of relationships under pressure."
         },
         {
             "id": 24,
             "title": "Klara and the Sun",
+            "title_id": "klara_and_the_sun",
             "author": "Kazuo Ishiguro",
-            "isbn": "9780735281264",
             "rating": 4,
             "brief_review": "How does he keep coming up with these ideas."
         },
         {
             "id": 25,
             "title": "The Road",
+            "title_id": "the_road",
             "author": "Cormac McCarthy",
-            "isbn": "0307476316",
             "rating": 5,
             "brief_review": "Dark and depressing and mostly hopeless (but not entirely)."
         },
         {
             "id": 26,
             "title": "The Three Body Problem",
+            "title_id": "the_three_body_problem",
             "author": "Cixin Liu",
-            "isbn": "3453317661",
             "rating": 5,
             "brief_review": "The sheer amount of suspense I felt at multiple points in this novel was insane."
         },
         {
             "id": 27,
             "title": "The Dark Forest ",
+            "title_id": "the_dark_forest_",
             "author": "Cixin Liu",
-            "isbn": "9861206884",
             "rating": 5,
             "brief_review": "A sequel that matches the high stakes of the first novel."
         },
         {
             "id": 28,
             "title": "Death's End",
+            "title_id": "death's_end",
             "author": "Cixin Liu",
-            "isbn": "3453317661",
             "rating": 3,
             "brief_review": "Didn't like this one as much as the first two in the seroes since it took place in the far future, which was less interesting to me."
         },
         {
             "id": 29,
             "title": "Pastoralia",
+            "title_id": "pastoralia",
             "author": "George Saunders",
-            "isbn": "9781573228725",
             "rating": 4,
             "brief_review": "Adored the absurdity of the first story in the collection. The others weren't as unique."
         },
         {
             "id": 30,
             "title": "A Psalm for the Wild Built",
+            "title_id": "a_psalm_for_the_wild_built",
             "author": "Becky Chambers",
-            "isbn": "9788412493054",
             "rating": 5,
             "brief_review": "I borrowed the sequel from the library."
         },
         {
             "id": 31,
             "title": "All the Pretty Horses",
+            "title_id": "all_the_pretty_horses",
             "author": "Cormac McCarthy",
-            "isbn": "0792715756",
             "rating": 3,
             "brief_review": "Not enough horses."
         },
         {
             "id": 32,
             "title": "Deacon King Kong",
+            "title_id": "deacon_king_kong",
             "author": "James McBride",
-            "isbn": "2351782445",
             "rating": 4,
             "brief_review": "The author paints such colorful characters and settings."
         },
         {
             "id": 33,
             "title": "The Dispossessed",
+            "title_id": "the_dispossessed",
             "author": "Ursula K. LeGuin",
-            "isbn": "9780060504007",
             "rating": 5,
             "brief_review": "Fun fact: Shevek was probably based on Oppenheimer."
         },
         {
             "id": 34,
             "title": "The Iron Heel",
+            "title_id": "the_iron_heel",
             "author": "Jack London",
-            "isbn": "9798666687628",
             "rating": 2,
             "brief_review": "Polemical novel about Marxism. Interesting as an early dystopia but not the best literary piece."
         },
         {
             "id": 35,
             "title": "This is How You Lose the Time War",
+            "title_id": "this_is_how_you_lose_the_time_war",
             "author": "Amal El-Mohtar, Max Gladstone",
-            "isbn": "9788412104356",
             "rating": 3,
             "brief_review": "The writing is beautiful but it was too vague for me to feel impelled to read all of the flowery prose."
         },
         {
             "id": 36,
             "title": "A Connecticut Yankee in King Arthur's Court",
+            "title_id": "a_connecticut_yankee_in_king_arthur's_court",
             "author": "Mark Twain",
-            "isbn": "1419100726",
             "rating": 3,
             "brief_review": "Arthurian tales aren't my favorite, but the tricksteresque scenes are fantastic"
         },
         {
             "id": 37,
             "title": "Player Piano",
+            "title_id": "player_piano",
             "author": "Kurt Vonnegut",
-            "isbn": "9780440170372",
             "rating": 5,
             "brief_review": "One of my favorite dystopian novels."
         },
         {
             "id": 38,
             "title": "James",
+            "title_id": "james",
             "author": "Percival Everett",
-            "isbn": "9780141371429",
             "rating": 2,
             "brief_review": "I think if the author honed in on what I thought was the most interesting concept, it could've been a great short story."
         },
         {
             "id": 39,
             "title": "Cat's Cradle",
+            "title_id": "cat's_cradle",
             "author": "Kurt Vonnegut",
-            "isbn": "9783499124495",
             "rating": 4,
             "brief_review": "Pretty sick."
         },
         {
             "id": 40,
             "title": "Do Androids Dream of Electric Sheep?",
+            "title_id": "do_androids_dream_of_electric_sheep?",
             "author": "Philip K. Dick",
-            "isbn": "9788435021296",
             "rating": 4,
             "brief_review": "Should I watch the movie?"
         },
         {
             "id": 41,
             "title": "Utopia",
+            "title_id": "utopia",
             "author": "Thomas More",
-            "isbn": "9780312101459",
             "rating": 5,
             "brief_review": "Cool for what it is. Wouldn't pick it up as a beach read."
         },
         {
             "id": 42,
             "title": "Project Hail Mary",
+            "title_id": "project_hail_mary",
             "author": "Andy Weir",
-            "isbn": "0593135229",
             "rating": 4,
             "brief_review": "Amazing story and a good amount of hard SF content for me. Language is a bit simple however."
         },
         {
             "id": 43,
             "title": "A Prayer for the Crown-Shy",
+            "title_id": "a_prayer_for_the_crown-shy",
             "author": "Becky Chambers",
-            "isbn": "9798840514924",
             "rating": 4,
             "brief_review": "So cozy and heartwarming. Sometimes a book with minimal conflict hits the spot."
         },
         {
             "id": 44,
             "title": "The Time Machine",
+            "title_id": "the_time_machine",
             "author": "H.G. Wells",
-            "isbn": "841707919X",
             "rating": 3,
             "brief_review": "Feels kind of goofy now, but I bet knowing something about H.G. Wells time period would make the metaphors land harder."
         },
         {
             "id": 45,
             "title": "Lincoln in the Bardo",
+            "title_id": "lincoln_in_the_bardo",
             "author": "George Saunders",
-            "isbn": "1408871742",
             "rating": 4,
             "brief_review": "Great characters. Really interesting, sort of experimental novel."
         },
         {
             "id": 46,
             "title": "A Separate Peace",
+            "title_id": "a_separate_peace",
             "author": "John Knowles",
-            "isbn": "0606013458",
             "rating": 3,
             "brief_review": "It was fine."
         },
         {
             "id": 47,
             "title": "Naked",
+            "title_id": "naked",
             "author": "David Sedaris",
-            "isbn": "9787540723989",
             "rating": 4,
             "brief_review": "Isn't as funny as I thought it'd be. Pretty good without that expectation."
         },
         {
             "id": 48,
             "title": "Dracula",
+            "title_id": "dracula",
             "author": "Bram Stoker",
-            "isbn": "9798728645214",
             "rating": 5,
             "brief_review": "Everything can be reduced to vampires after you read this book."
         },
         {
             "id": 49,
             "title": "Martyr!",
+            "title_id": "martyr!",
             "author": "Kaveh Akbar",
-            "isbn": "9781035026081",
             "rating": 2,
             "brief_review": "Too many coincidences. "
         },
         {
             "id": 50,
             "title": "The Boy With a Bird in His Chest",
+            "title_id": "the_boy_with_a_bird_in_his_chest",
             "author": "Emme Lund",
-            "isbn": null,
             "rating": 2,
             "brief_review": "The concept is what made me buy this, but the writing was not good. Expected more action, but there's not even that much dialogue."
         },
         {
             "id": 51,
             "title": "Tender is the Night",
+            "title_id": "tender_is_the_night",
             "author": "F. Scott Fitzgerald",
-            "isbn": "9798417660092",
             "rating": 4,
             "brief_review": "Alternative title: Messed Up is the Glamorous Couple"
         },
         {
             "id": 52,
             "title": "Beautyland",
+            "title_id": "beautyland",
             "author": "Marie-Helene Bertino",
-            "isbn": "9780374109288",
             "rating": 3,
             "brief_review": "Loved the concept, but wanted more aliens and less generic coming-of-age angst."
         },
         {
             "id": 53,
             "title": "Maus",
+            "title_id": "maus",
             "author": "Art Spiegelman",
-            "isbn": "9782080660299",
             "rating": 5,
             "brief_review": "So unique and brilliant."
         },
         {
             "id": 54,
             "title": "Maus II",
+            "title_id": "maus_ii",
             "author": "Art Spiegelman",
-            "isbn": "9780140132069",
             "rating": 5,
             "brief_review": "He did it again. (And by it I mean craft a deeply personal narrative about history, identity, and family.)"
         },
         {
             "id": 55,
             "title": "The Overstory",
+            "title_id": "the_overstory",
             "author": "Richard Powers",
-            "isbn": "8491814442",
             "rating": 3,
             "brief_review": "Too many characters whose arcs are not tied together in a satisfying way. Loved parts of it though."
         },
         {
             "id": 56,
             "title": "The Nickel Boys",
+            "title_id": "the_nickel_boys",
             "author": "Colson Whitehead",
-            "isbn": "1984891375",
             "rating": 2,
             "brief_review": "I needed more connections to the characters. Horrific things happen to them but the emotions don't come through."
         },
         {
             "id": 57,
             "title": "Katabasis",
+            "title_id": "katabasis",
             "author": "R.F. Kuang",
-            "isbn": "9780008501877",
             "rating": 4,
             "brief_review": "Such a fun world, but the ending doesn't pack the same punch as the rest of the story."
         },
         {
             "id": 58,
             "title": "Blindness",
+            "title_id": "blindness",
             "author": "Jose Saramago",
-            "isbn": "9511167820",
             "rating": 5,
             "brief_review": "I don't think I got all the metaphors, but the story is amazing."
         },
         {
             "id": 59,
             "title": "The Lies of Locke Lamora",
+            "title_id": "the_lies_of_locke_lamora",
             "author": "Scott Lynch",
-            "isbn": "9780553902716",
             "rating": 3,
             "brief_review": "Fun, but the amorality of the main characters is not to my personal taste."
         },
         {
             "id": 60,
             "title": "The Remains of the Day",
+            "title_id": "the_remains_of_the_day",
             "author": "Kazuo Ishiguro",
-            "isbn": "0886192196",
             "rating": 5,
             "brief_review": "Not flashy, but deep and touching."
         },
         {
             "id": 61,
             "title": "The Handmaid's Tale",
+            "title_id": "the_handmaid's_tale",
             "author": "Margaret Atwood",
-            "isbn": "9789643114190",
             "rating": 5,
             "brief_review": "Read it 3 times and picked up a new view on it each time."
         },
         {
             "id": 62,
             "title": "A Gentleman in Moscow",
+            "title_id": "a_gentleman_in_moscow",
             "author": "Amor Towles",
-            "isbn": "9780099558781",
             "rating": 4,
             "brief_review": "Interesting novel about isolation, but overly glib about the fact that there's war and political strife going on."
         },
         {
             "id": 63,
             "title": 1984,
+            "title_id": "1984",
             "author": "George Orwell",
-            "isbn": "1405862416",
             "rating": 5,
             "brief_review": "Literally 1984."
         }
