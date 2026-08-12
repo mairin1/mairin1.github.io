@@ -11,7 +11,7 @@
     <div class="container">
       <div class="blurb" style="max-width:700px">
         <h1>Hi there, I'm Mairin!</h1>
-        <h2>About me</h2>
+        <h2>About Me</h2>
         <p>I'm a senior at MIT studying Computer Science and Biology (Course 6-7) with a concentration in Creative Writing.
             I can get excited about pretty much anything related to science, technology, math, or literature.
             Some things I've explored academically and professionally: computer vision, machine learning, cryptography, video game design,
@@ -23,7 +23,13 @@
     <!--Book reviews functionality-->
     <div class="container">
       <div id="books-header" class="books-header">
-        <h2>Brief Book Thoughts<button id="refreshBooksButton">See more</button></h2>
+        <h2>Brief Book Thoughts
+          <button id="refreshBooksButton">
+            <img src="files/reload.jpg"
+     	      alt="Button Image" style="width: 20px; height: 20px;">
+            </img>
+          </button>
+        </h2>
         <script>
             document.getElementById('refreshBooksButton').addEventListener('click', loadBooks);
         </script>

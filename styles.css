@@ -22,19 +22,20 @@
 
 .book-item .title {
   font-size: 20px;
-  color: #333;
+  color: rgba(6, 77, 41, 0.988);
   margin: 5px 0;
   font-weight: bold;
 }
 
 .book-item .review {
   font-size: 14px;
-  color: #333;
+  color: #ffffff;
   margin: 5px 0;
   max-width: 200px;
-  /* font-weight: bold; */
-  /* word-wrap: break-word;
-  overflow-wrap: break-word; */
+}
+
+.book-item .author {
+    color: #ffffff;
 }
 
 ul {
@@ -42,4 +43,29 @@ ul {
     padding: 0;
     display: flex;
     gap: 20px;  /* Space between items */
+}
+
+.container {
+  width: 750px;
+  border: 4px solid rgba(114, 99, 18, 0.988);
+  padding: 50px;
+  margin: 20px;
+  border-radius: 25px;
+  background-color: rgb(138, 159, 102);
+}
+
+title {
+  color: rgba(6, 77, 41, 0.988);
+}
+
+h1 {
+    color: rgba(6, 77, 41, 0.988);
+}
+
+h2 {
+    color: rgba(114, 99, 18, 0.988);
+}
+
+p {
+    color: #ffffff;
 }
