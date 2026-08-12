@@ -1,0 +1,274 @@
+{
+    "covers": [
+        {
+            "title_id": "wide_sargasso_sea",
+            "file": "wide_sargasso_sea.jpg",
+            "books_json_key": 11
+        },
+        {
+            "title_id": "the_shipping_news",
+            "file": "the_shipping_news.jpg",
+            "books_json_key": 12
+        },
+        {
+            "title_id": "a_connecticut_yankee_in_king_arthur's_court",
+            "file": "a_connecticut_yankee_in_king_arthur's_court.jpg",
+            "books_json_key": 35
+        },
+        {
+            "title_id": "the_plague",
+            "file": "the_plague.jpg",
+            "books_json_key": 14
+        },
+        {
+            "title_id": "project_hail_mary",
+            "file": "project_hail_mary.jpg",
+            "books_json_key": 41
+        },
+        {
+            "title_id": "this_is_how_you_lose_the_time_war",
+            "file": "this_is_how_you_lose_the_time_war.jpg",
+            "books_json_key": 34
+        },
+        {
+            "title_id": "never_let_me_go",
+            "file": "never_let_me_go.jpg",
+            "books_json_key": 3
+        },
+        {
+            "title_id": "all_the_pretty_horses",
+            "file": "all_the_pretty_horses.jpg",
+            "books_json_key": 30
+        },
+        {
+            "title_id": "pachinko",
+            "file": "pachinko.jpg",
+            "books_json_key": 6
+        },
+        {
+            "title_id": "death's_end",
+            "file": "death's_end.jpg",
+            "books_json_key": 27
+        },
+        {
+            "title_id": "lincoln_highway",
+            "file": "lincoln_highway.jpg",
+            "books_json_key": 1
+        },
+        {
+            "title_id": "pastoralia",
+            "file": "pastoralia.jpg",
+            "books_json_key": 28
+        },
+        {
+            "title_id": "100_years_of_solitude",
+            "file": "100_years_of_solitude.jpg",
+            "books_json_key": 16
+        },
+        {
+            "title_id": "lovely,_dark,_deep",
+            "file": "lovely,_dark,_deep.jpg",
+            "books_json_key": 22
+        },
+        {
+            "title_id": "klara_and_the_sun",
+            "file": "klara_and_the_sun.jpg",
+            "books_json_key": 23
+        },
+        {
+            "title_id": "the_immortal_life_of_henrietta_lacks",
+            "file": "the_immortal_life_of_henrietta_lacks.jpg",
+            "books_json_key": 4
+        },
+        {
+            "title_id": "the_things_they_carried",
+            "file": "the_things_they_carried.jpg",
+            "books_json_key": 9
+        },
+        {
+            "title_id": "player_piano",
+            "file": "player_piano.jpg",
+            "books_json_key": 36
+        },
+        {
+            "title_id": "the_three_body_problem",
+            "file": "the_three_body_problem.jpg",
+            "books_json_key": 25
+        },
+        {
+            "title_id": "maus",
+            "file": "maus.jpg",
+            "books_json_key": 52
+        },
+        {
+            "title_id": "the_overstory",
+            "file": "the_overstory.jpg",
+            "books_json_key": 54
+        },
+        {
+            "title_id": "beloved",
+            "file": "beloved.jpg",
+            "books_json_key": 15
+        },
+        {
+            "title_id": "naked",
+            "file": "naked.jpg",
+            "books_json_key": 46
+        },
+        {
+            "title_id": "a_separate_peace",
+            "file": "a_separate_peace.jpg",
+            "books_json_key": 45
+        },
+        {
+            "title_id": "utopia",
+            "file": "utopia.jpg",
+            "books_json_key": 40
+        },
+        {
+            "title_id": "the_blind_assassin",
+            "file": "the_blind_assassin.jpg",
+            "books_json_key": 13
+        },
+        {
+            "title_id": "the_remains_of_the_day",
+            "file": "the_remains_of_the_day.jpg",
+            "books_json_key": 59
+        },
+        {
+            "title_id": "song_of_achilles",
+            "file": "song_of_achilles.jpg",
+            "books_json_key": 17
+        },
+        {
+            "title_id": "a_psalm_for_the_wild_built",
+            "file": "a_psalm_for_the_wild_built.jpg",
+            "books_json_key": 29
+        },
+        {
+            "title_id": "the_nickel_boys",
+            "file": "the_nickel_boys.jpg",
+            "books_json_key": 55
+        },
+        {
+            "title_id": "cat's_cradle",
+            "file": "cat's_cradle.jpg",
+            "books_json_key": 38
+        },
+        {
+            "title_id": "the_dark_forest_",
+            "file": "the_dark_forest_.jpg",
+            "books_json_key": 26
+        },
+        {
+            "title_id": "the_road",
+            "file": "the_road.jpg",
+            "books_json_key": 24
+        },
+        {
+            "title_id": "the_lies_of_locke_lamora",
+            "file": "the_lies_of_locke_lamora.jpg",
+            "books_json_key": 58
+        },
+        {
+            "title_id": "a_gentleman_in_moscow",
+            "file": "a_gentleman_in_moscow.jpg",
+            "books_json_key": 61
+        },
+        {
+            "title_id": "james",
+            "file": "james.jpg",
+            "books_json_key": 37
+        },
+        {
+            "title_id": "do_androids_dream_of_electric_sheep?",
+            "file": "do_androids_dream_of_electric_sheep?.jpg",
+            "books_json_key": 39
+        },
+        {
+            "title_id": "beautyland",
+            "file": "beautyland.jpg",
+            "books_json_key": 51
+        },
+        {
+            "title_id": "cloud_cuckoo_land",
+            "file": "cloud_cuckoo_land.jpg",
+            "books_json_key": 2
+        },
+        {
+            "title_id": "trust",
+            "file": "trust.jpg",
+            "books_json_key": 0
+        },
+        {
+            "title_id": "martyr!",
+            "file": "martyr!.jpg",
+            "books_json_key": 48
+        },
+        {
+            "title_id": "grendel",
+            "file": "grendel.jpg",
+            "books_json_key": 5
+        },
+        {
+            "title_id": "crocodile_soup",
+            "file": "crocodile_soup.jpg",
+            "books_json_key": 10
+        },
+        {
+            "title_id": "maus_ii",
+            "file": "maus_ii.jpg",
+            "books_json_key": 53
+        },
+        {
+            "title_id": "transcendent_kingdom",
+            "file": "transcendent_kingdom.jpg",
+            "books_json_key": 8
+        },
+        {
+            "title_id": "dracula",
+            "file": "dracula.jpg",
+            "books_json_key": 47
+        },
+        {
+            "title_id": "the_dispossessed",
+            "file": "the_dispossessed.jpg",
+            "books_json_key": 32
+        },
+        {
+            "title_id": "1984",
+            "file": "1984.jpg",
+            "books_json_key": 62
+        },
+        {
+            "title_id": "the_time_machine",
+            "file": "the_time_machine.jpg",
+            "books_json_key": 43
+        },
+        {
+            "title_id": "deacon_king_kong",
+            "file": "deacon_king_kong.jpg",
+            "books_json_key": 31
+        },
+        {
+            "title_id": "the_handmaid's_tale",
+            "file": "the_handmaid's_tale.jpg",
+            "books_json_key": 60
+        },
+        {
+            "title_id": "when_we_were_orphans",
+            "file": "when_we_were_orphans.jpg",
+            "books_json_key": 7
+        },
+        {
+            "title_id": "katabasis",
+            "file": "katabasis.jpg",
+            "books_json_key": 56
+        },
+        {
+            "title_id": "the_alchemist",
+            "file": "the_alchemist.jpg",
+            "books_json_key": 20
+        }
+    ]
+}

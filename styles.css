@@ -1,0 +1,45 @@
+.book-row {
+  display: flex;
+  gap: 20px;  /* space between each image */
+  justify-content: center;
+  padding: 20px;
+}
+
+.book-item {
+  display: flex;
+  flex-direction: column;  /* stack vertically */
+  align-items: center;
+  text-align: center;
+}
+
+.book-item img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.book-item .title {
+  font-size: 20px;
+  color: #333;
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+.book-item .review {
+  font-size: 14px;
+  color: #333;
+  margin: 5px 0;
+  max-width: 200px;
+  /* font-weight: bold; */
+  /* word-wrap: break-word;
+  overflow-wrap: break-word; */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;  /* Space between items */
+}

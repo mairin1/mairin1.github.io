@@ -67,11 +67,8 @@ def get_cover_from_title_english(author, title):
         for edition in editions_data.get('entries', []):
             if edition.get('languages'):
                 is_english = any(lang.get('key') == '/languages/eng' for lang in edition['languages'])
-                # Skip if it's not a book format
-                # format_type = edition.get('physical_format', '').lower()
-                # is_book = True #'cd' not in format_type and 'software' not in format_type
 
-                if is_english: #and is_book:
+                if is_english:
                     print(edition)
                     english_edition = edition
                     break
@@ -97,7 +94,7 @@ def get_cover_from_title_english(author, title):
     else:
         print(f"No OpenLibrary search results for '{title}' by {author}")
 
-def get_cover_from_key(author, title, key): # key = 'isbn' | 
+def get_cover_from_key(author, title, key):
     if f'{to_snake_case(title)}.jpg' in os.listdir('files/covers/'):
             print(f'Skipped {title}')
             return
@@ -121,19 +118,35 @@ def get_cover_from_key(author, title, key): # key = 'isbn' |
 
 def main():
     # Seeding books.json
-    json_data = spreadsheet_to_json("files/books-08-07.xlsx")
-    update_books_list(json_data)
+    # json_data = spreadsheet_to_json("files/books-08-07.xlsx")
+    # update_books_list(json_data)
 
     # Fetching covers
     with open('files/books.json', 'r') as f:
         books = json.load(f) 
     data = [(book['author'], book['title']) for book in books['books']]
-    for author, title in data:
-        # Prefer English language title
-        get_cover_from_title_english(author, title)
-        # The API is a bit weird, so we try a different way of getting covers
-        get_cover_from_key(author, title, 'isbn')
-        get_cover_from_key(author, title, 'lccn')
-        get_cover_from_key(author, title, 'ocid')
+    # for author, title in data:
+    #     # Prefer English language title
+    #     get_cover_from_title_english(author, title)
+    #     # The API is a bit weird, so we try a different way of getting covers
+    #     get_cover_from_key(author, title, 'isbn')
+    #     get_cover_from_key(author, title, 'lccn')
+    #     get_cover_from_key(author, title, 'ocid')
+
+    # Seeding covers.json 
+    with open('files/covers.json', 'r') as f:
+        covers = json.load(f)
+    for img in os.listdir('files/covers'):
+        title = str.split(img, ".")[0]
+        books_key = [i for i, d in enumerate(data) if to_snake_case(d[1]) == title][0]
+        entry_to_add = {
+            "title_id": title,
+            "file": img,
+            "books_json_key": books_key
+        }
+        covers['covers'].append(entry_to_add)
+    json_str = json.dumps(covers, indent=4)
+    with open("files/covers.json", "w") as f:
+        f.write(json_str)
 
 main()

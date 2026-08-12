@@ -2,8 +2,11 @@
 <html>
   <head>
     <title>Mairin O</title>
+    <script type="text/javascript" src="files/books.json"></script>
+    <script type="text/javascript" src='books.js'> </script>
+    <link rel="stylesheet" href="styles.css">
   </head>
-  <body>
+  <body onLoad="loadBooks()">
     <!--About me section-->
     <div class="container">
       <div class="blurb" style="max-width:700px">
@@ -17,16 +20,20 @@
       </div>
     </div>
 
-    <!--Contact info and resume links footer-->
+    <!--Book reviews functionality-->
+    <div class="container">
+      <div id="books-header" class="books-header">
+        <h2>Brief Book Thoughts<button id="refreshBooksButton">See more</button></h2>
+        <script>
+            document.getElementById('refreshBooksButton').addEventListener('click', loadBooks);
+        </script>
+      </div>
+      <ul id="book-row">
+      </ul>
+    </div>
+    
+    <!--Footer with links-->
     <footer>
-    <style>
-        ul {
-        list-style: none;
-        padding: 0;
-        display: flex;
-        gap: 20px;  /* Space between items */
-        }
-    </style>
       <ul>
         <li><a href="mailto:mairinoshaughnessy@gmail.com">Email</a></li>
         <li>
