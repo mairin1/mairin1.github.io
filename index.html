@@ -1,12 +1,21 @@
 <!doctype html>
 <html>
   <head>
-    <title>Mairin O</title>
+    <title>Home</title>
     <script type="text/javascript" src="files/books.json"></script>
     <script type="text/javascript" src='books.js'> </script>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body onLoad="loadBooks()">
+    <div id="nav-placeholder"></div>
+    <script>
+    fetch('/nav.html')
+        .then(res => res.text())
+        .then(html => {
+        document.getElementById('nav-placeholder').innerHTML = html;
+        });
+    </script>
+
     <!--About me section-->
     <div class="container">
       <div class="blurb" style="max-width:700px">
@@ -36,16 +45,17 @@
       </div>
       <ul id="book-row">
       </ul>
+      <p>Covers taken from <a href="https://openlibrary.org">OpenLibrary.</a></p>
     </div>
     
     <!--Footer with links-->
     <footer>
       <ul>
-        <li><a href="mailto:mairinoshaughnessy@gmail.com">Email</a></li>
+        <li><a href="mailto:mairinoshaughnessy@gmail.com" target="_blank">Email</a></li>
         <li>
           <a href="https://github.com/mairin1" target="_blank">GitHub</a>
         </li>
-        <li><a href="files/oshaughnessy_resume2026.pdf" target="_blank">Resume</a></li>
+        <li><a href="files/oshaughnessy_resume_fall2026.pdf" target="_blank">Resume</a></li>
         <li><a href="https://www.linkedin.com/in/mairin-o-shaughnessy-2757a9292/" target="_blank">LinkedIn</a></li>
       </ul>
     </footer>

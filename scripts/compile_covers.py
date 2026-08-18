@@ -1,7 +1,5 @@
 import requests
 
-# TODO: add attribution to OpenLibrary for the covers
-
 import pandas as pd
 import json
 import os

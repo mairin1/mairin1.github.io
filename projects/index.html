@@ -1,0 +1,53 @@
+
+
+<!doctype html>
+<html>
+  <head>
+    <title>Projects</title>
+    <link rel="stylesheet" href="../styles.css">
+  </head>
+  <body>
+    <div id="nav-placeholder"></div>
+    <script>
+    fetch('../nav.html')
+        .then(res => res.text())
+        .then(html => {
+        document.getElementById('nav-placeholder').innerHTML = html;
+        });
+    </script>
+    
+    <!--Hush-->
+    <div class="container">
+      <div id="hush" class="hush">
+        <h1>Hush - Creating Video Games Final Project
+        </h1>
+        <ul>
+            <li><img src="../files/gifs/keytarHit.gif"></img></li>
+            <li><img src="../files/gifs/playerTakeDamage.gif"></img></li>
+            <li>
+                <p>Play our musical-medieval-side-scroller <a href="https://themuffinperson.itch.io/hush" target="_blank">here</a>!</p>
+                <p> This class was full of programmers (as expected), so I took the opportunity to volunteer to work on animation assets for my team.
+                    See "Keytar Hit" and "Player Takes Damage" to the left.
+                    I did end up needing to do a fair bit of coding in C# and specifying in Unity Engine (setting up animations for a single entity requires drawing out a finite state machine in Unity's UI),
+                    but the design portion ended up being the most interesting. The colors and art style set a vibe, sure, but I also had to figure out what feedback I could give the player through the visual state of the game that would make the experience more immersive/enjoyable/etc.
+
+                </p>
+            </li>
+        </ul>
+        </div>
+    </div>
+
+
+    <!--Footer with links-->
+    <footer>
+      <ul>
+        <li><a href="mailto:mairinoshaughnessy@gmail.com" target="_blank">Email</a></li>
+        <li>
+          <a href="https://github.com/mairin1" target="_blank">GitHub</a>
+        </li>
+        <li><a href="../files/oshaughnessy_resume_fall2026.pdf" target="_blank">Resume</a></li>
+        <li><a href="https://www.linkedin.com/in/mairin-o-shaughnessy-2757a9292/" target="_blank">LinkedIn</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>

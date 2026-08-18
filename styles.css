@@ -69,3 +69,32 @@ h2 {
 p {
     color: #ffffff;
 }
+
+.header a {
+  color: rgba(6, 77, 41, 0.988);
+  font-size: 25px;
+  text-decoration: none;      /* remove the underline */
+  margin-right: 1rem;
+}
+
+.header a:hover {
+  text-decoration: underline; /* bring it back on hover, optional */
+}
+
+.header a:visited {
+  color: rgba(6, 77, 41, 0.988); /* stop visited links turning purple */
+}
+
+footer a {
+  color: rgba(6, 77, 41, 0.988);
+  text-decoration: none;
+  font-size: 20px;
+}
+
+footer a:visited {
+  color: rgba(6, 77, 41, 0.988);
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
